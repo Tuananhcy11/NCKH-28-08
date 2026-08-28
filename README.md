@@ -32,6 +32,17 @@ src/
 
 Chi tiết: [`src/README.md`](src/README.md)
 
+## Dữ liệu M15 đã xử lý
+
+`data/processed/` không được lưu trên git (379 MB, riêng `bo_du_lieu_M15.csv` nặng 164 MB — vượt giới hạn 100 MB/tệp của GitHub). Thay vào đó, toàn bộ 9 tệp M15 đã xử lý được nén trong [`data/m15_processed.zip`](data/m15_processed.zip) (87,8 MB, nén BZIP2 tỉ lệ 3,2×, giải nén ra 278 MB).
+
+```bash
+python src/nen_du_lieu_m15.py --giai-nen   # giải nén về data/processed/
+python src/nen_du_lieu_m15.py              # nén lại sau khi chạy lại pipeline
+```
+
+Dữ liệu của các khung D1 và H1 tái tạo được bằng `python src/quy_trinh/run_all.py 02`.
+
 ## Cách chạy
 
 ```bash

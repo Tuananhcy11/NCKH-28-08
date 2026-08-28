@@ -2,6 +2,8 @@
 # (data/processed nang 379 MB, rieng bo_du_lieu_M15.csv 164 MB vuot gioi han
 #  cung 100 MB moi tep cua GitHub)
 data/processed/
+# ...nhung ban NEN cua du lieu M15 thi co (87.8 MB, duoi gioi han 100 MB)
+!data/m15_processed.zip
 
 # Cache va tep tam
 __pycache__/
