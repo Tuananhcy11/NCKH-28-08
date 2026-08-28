@@ -1,0 +1,19 @@
+khung,ham_mat_mat,so_sanh,n,mat_mat_mo_hinh,mat_mat_chuan,thong_ke_DM,p_value,ket_luan
+D1,binh_phuong,XGBoost vs Baseline_MACD_EMA,2429,1.4697,1.0469,5.52,3.753e-08,chuan tot hon
+D1,binh_phuong,LSTM vs Baseline_MACD_EMA,2268,1.6146,1.0525,6.651,3.631e-11,chuan tot hon
+D1,binh_phuong,RandomForest vs Baseline_MACD_EMA,2429,1.4442,1.0469,5.304,1.234e-07,chuan tot hon
+D1,0-1,XGBoost vs Baseline_MACD_EMA,2429,0.62,0.6147,0.227,0.8205,khong khac biet
+D1,0-1,LSTM vs Baseline_MACD_EMA,2268,0.6371,0.612,1.047,0.2953,khong khac biet
+D1,0-1,RandomForest vs Baseline_MACD_EMA,2429,0.6377,0.6147,1.02,0.3079,khong khac biet
+H1,binh_phuong,XGBoost vs Baseline_MACD_EMA,27237,1.6281,1.2418,12.876,0.0,chuan tot hon
+H1,binh_phuong,LSTM vs Baseline_MACD_EMA,27076,1.6042,1.2437,11.049,0.0,chuan tot hon
+H1,binh_phuong,RandomForest vs Baseline_MACD_EMA,27237,1.5574,1.2418,10.74,0.0,chuan tot hon
+H1,0-1,XGBoost vs Baseline_MACD_EMA,27237,0.6051,0.709,-10.932,0.0,mo hinh tot hon
+H1,0-1,LSTM vs Baseline_MACD_EMA,27076,0.6284,0.7094,-8.021,1.11e-15,mo hinh tot hon
+H1,0-1,RandomForest vs Baseline_MACD_EMA,27237,0.6079,0.709,-10.724,0.0,mo hinh tot hon
+M15,binh_phuong,XGBoost vs Baseline_MACD_EMA,32123,1.6116,1.2337,12.638,0.0,chuan tot hon
+M15,binh_phuong,LSTM vs Baseline_MACD_EMA,31962,1.5329,1.2317,9.666,0.0,chuan tot hon
+M15,binh_phuong,RandomForest vs Baseline_MACD_EMA,32123,1.509,1.2337,10.634,0.0,chuan tot hon
+M15,0-1,XGBoost vs Baseline_MACD_EMA,32123,0.5724,0.6982,-13.609,0.0,mo hinh tot hon
+M15,0-1,LSTM vs Baseline_MACD_EMA,31962,0.592,0.6979,-11.162,0.0,mo hinh tot hon
+M15,0-1,RandomForest vs Baseline_MACD_EMA,32123,0.5777,0.6982,-14.69,0.0,mo hinh tot hon

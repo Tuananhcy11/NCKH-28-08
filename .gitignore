@@ -1,0 +1,17 @@
+# Du lieu trung gian - tai tao duoc bang cac lenh trong README, khong luu tren git
+# (data/processed nang 379 MB, rieng bo_du_lieu_M15.csv 164 MB vuot gioi han
+#  cung 100 MB moi tep cua GitHub)
+data/processed/
+
+# Cache va tep tam
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Nhat ky chay
+logs_*.txt
+*.log
+
+# Tep tam cua Office
+~$*

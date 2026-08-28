@@ -1,0 +1,4 @@
+khung,cua_so,alpha,engine,model,so_dac_trung,so_quan_sat,so_buoc_du_bao,phu_song_oracle,peg_dev_tb_bp,ty_le_vi_pham_hinh_hoc,lookahead_nghi_ngo,phut_chay,r2_open,adf_p_open,r2_high,adf_p_high,r2_low,adf_p_low,r2_close,adf_p_close,mae_usd_open,mae_usd_high,mae_usd_low,mae_usd_close
+D1,500,1.0,fast,ridge,25,1336,836,1.0,7.552,0.23445,1,0.02,0.9763,5.08e-29,0.5735,0.0,0.5866,4.21e-18,0.6488,0.0,1.4496,7.6199,6.3883,7.2568
+H1,500,1.0,fast,ridge,27,31220,30720,1.0,7.767,0.457161,0,0.64,0.9985,0.0,0.9403,0.0,0.9424,0.0,0.9408,0.0,0.1922,2.0349,1.9594,2.3792
+M15,500,1.0,fast,ridge,27,122942,122442,1.0,7.768,0.533722,0,5.64,0.9995,0.0,0.9741,0.0,0.9752,0.0,0.9713,0.0,0.1042,1.2714,1.2733,1.6656

@@ -1,0 +1,4 @@
+khung,so_ky_nghi,beta_cuoi_tuan_cuoi_ky,gap_that_abs_tb,mae_khong_doi,rmse_khong_doi,mae_beta_trong_phien_0.90,rmse_beta_trong_phien_0.90,mae_beta_cuoi_tuan_cuon_chieu,rmse_beta_cuoi_tuan_cuon_chieu,cai_thien_vs_khong_doi_pct,thiet_hai_neu_dung_beta_trong_phien_pct
+D1,249,0.1757,2.875,2.875,6.702,6.791,10.542,2.754,6.095,4.2,136.2
+H1,252,0.0874,2.899,2.899,6.701,7.79,13.901,2.793,6.512,3.7,168.7
+M15,289,0.0872,2.639,2.639,6.275,7.166,13.064,2.544,6.098,3.6,171.5
